@@ -19,8 +19,8 @@ Mesura l'efectivitat de l'Economia Circular dins de l'empresa.
  *Taxa de Reutilització = Pes total del Hardware Reutilitzat / Pes total del Hardware en desús × 100**
 
 **Exemple de càlcul per Coworking Mataró:**
-*  l pes dels 20 PCs (10 kg), 20 SSD (0.2 kg), 20 RAM (0.1 kg) reutilitzats = **10.3 kg**.
-*  es total del maquinari obsolet (HDDs, RAM vella) = **3.5 kg**.
+*  l pes dels 20 PCs 10kg, 20 SSD 0.2kg, 20 RAM 0.1kg reutilitzats = **10.3 kg**.
+*  es total del maquinari obsolet HDDs, RAM vella = **3.5 kg**.
 *  *Taxa de Reutilització = (10.3 / 13.8) × 100 = 74.6%**
 
 Aquesta taxa elevada demostra un model d'empresa veritablement circular, que prioritza la reutilització sobre el reciclatge.
