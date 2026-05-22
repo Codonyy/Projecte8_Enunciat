@@ -4,7 +4,9 @@
 **1. PUE (Power Usage Effectiveness) – Eficiència de la Potència**
 
 Mesura l'eficiència energètica d'un centre de dades o servidor. Es calcula com:
->**PUE = Energia Total consumida per les instal·lacions / Energia consumida pels equips de TI**
+
+**PUE = Energia Total consumida per les instal·lacions / Energia consumida pels equips de TI**
+
 Un PUE ideal és **1.0**, on tota l'energia va als equips de TI.
 
 * **Valor actual del servidor físic:** S'estima un **PUE de 2.5** degut a l'antiguitat i la refrigeració ineficient.
@@ -14,7 +16,7 @@ Un PUE ideal és **1.0**, on tota l'energia va als equips de TI.
 
 Mesura l'efectivitat de l'Economia Circular dins de l'empresa.
 
-> *Taxa de Reutilització = Pes total del Hardware Reutilitzat / Pes total del Hardware en desús × 100**
+ *Taxa de Reutilització = Pes total del Hardware Reutilitzat / Pes total del Hardware en desús × 100**
 
 **Exemple de càlcul per Coworking Mataró:**
 *  l pes dels 20 PCs (10 kg), 20 SSD (0.2 kg), 20 RAM (0.1 kg) reutilitzats = **10.3 kg**.
