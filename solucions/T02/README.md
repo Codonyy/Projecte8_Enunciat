@@ -1,16 +1,16 @@
 
-### 4.3. Càlcul de KPIs (Indicadors Clau de Rendiment)
+### 4.3. Càlcul de KPIs
 
-**1. PUE (Power Usage Effectiveness) – Eficiència de la Potència**
+**1. PUE – Eficiència de la Potència**
 
 Mesura l'eficiència energètica d'un centre de dades o servidor. Es calcula com:
 
-**PUE = Energia Total consumida per les instal·lacions / Energia consumida pels equips de TI**
+PUE = Energia Total consumida per les instal·lacions / Energia consumida pels equips de TI
 
 Un PUE ideal és **1.0**, on tota l'energia va als equips de TI.
 
-* **Valor actual del servidor físic:** S'estima un **PUE de 2.5** degut a l'antiguitat i la refrigeració ineficient.
-* **Valor després de la migració al núvol:** El proveïdor cloud treballa habitualment amb **PUEs d'1.2 o inferiors**, considerats "excel·lents".
+* Valor actual del servidor físic: S'estima un PUE de 2.5 degut a l'antiguitat i la refrigeració ineficient.
+* Valor després de la migració al núvol:** El proveïdor cloud treballa habitualment amb PUEs d'1.2 o inferiors, considerats excel·lents.
 
 **2. Taxa de Reutilització de Hardware**
 
@@ -40,8 +40,8 @@ Aquesta taxa elevada demostra un model d'empresa veritablement circular, que pri
 
 ## 6. Conclusió
 
-Amb aquest Pla de Sostenibilitat hem vist Jo i en Marti Coworking Mataró deixarà de patir pels problemes d'ineficiència i alt consum elèctric. Apostant per la **Revitalització** del maquinari actual, s'aconsegueix un model d'Economia Circular que redueix dràsticament el malbaratament tecnològic. La implementació d'aquest pla no només **reduirà la factura elèctrica en un 20%** , sinó que també permetrà a l'empresa obtenir la certificació de sostenibilitat, contribuint activament als ODS 9, 12 i 13 de l'Agenda 2030.
+Amb aquest Pla de Sostenibilitat hem vist que el Coworking Mataró deixarà de patir pels problemes d'ineficiència i alt consum elèctric. Apostant per la revitalització del maquinari actual, s'aconsegueix un model d'Economia Circular que redueix dràsticament el malbaratament tecnològic. La implementació d'aquest pla no només reduirà la factura elèctrica en un 20% , sinó que també permetrà a l'empresa obtenir la certificació de sostenibilitat, contribuint activament als ODS 9, 12 i 13 de l'Agenda 2030.
 
 ---
 
-***Treball realitzat per Marc i Martí – SMX 2n***
+### ***Treball realitzat per Marc i Martí – SMX 2n***
