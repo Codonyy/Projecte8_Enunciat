@@ -1,3 +1,136 @@
+# Tasca 02. Pla de sostenibilitat – Coworking Mataró
+
+**Membres de l'equip:** Marc i Martí  
+**Data:** 22/05/2026 
+
+## Introducció
+
+En aquest document Jo i en Marti presentarem el **Pla de Sostenibilitat** per a l'empresa Coworking Mataró, una auditoria i proposta de transformació de la seva infraestructura informàtica cap a fer un model d'Economia Circular. L'objectiu principal és **optimitzar el rendiment tècnic dels equips, reduir l'impacte ambiental i disminuir la factura elèctrica 
+
+
+### els ODS i la empresa coworking
+
+Aquest pla nosaltre l'hem enfocat en els ODS com per exemple el:
+
+  **ODS 9 – Indústria, Innovació i Infraestructura:** Aposta per una infraestructura TIC resilient i sostenible mitjançant la revitalització d'equips existents.
+
+<img width="255" height="255" alt="9" src="https://github.com/user-attachments/assets/86991c66-6a02-4501-8a9b-fb48eb04e0e5" />
+
+
+  **ODS 12 – Producció i Consum Responsables:** Implementa l'Economia Circular allargant la vida útil del maquinari i reduint la generació de residus electrònics.
+
+<img width="255" height="255" alt="12" src="https://github.com/user-attachments/assets/b7e767b7-a176-42dd-ab59-5fa3fb163de3" />
+
+
+  **ODS 13 – Acció pel Clima:** Minimitza la petjada de carboni reduint el consum energètic de l'empresa.
+
+<img width="255" height="255" alt="13" src="https://github.com/user-attachments/assets/463cf86e-bff6-4a08-8a54-f627b5939002" />
+
+
+---
+
+## Fase 1: Diagnòstic i Auditoria
+
+Hem fet una auditoria tècnica i ambiental de la infraestructura actual de Coworking Mataró. Hem trobat els principals punts negres o les coses que no funcionen del tot, tambe hem posat alguna observació del que podem saber
+
+### Checklist d'auditoria
+
+
+| **Equip** | **Quantitat** | **Estat Tècnic** | **Impacte Ambiental / Consum** | **Risc / Observació** |
+| :--- | :--- | :--- | :--- | :--- |
+| **PCs Sobretaula** | 20 | **Obsolet / Deficient.** Discos HDD de 2018 lents, només 4GB de RAM, processadors amb sobreescalfament per acumulació de pols. | **Alt consum.** Els HDD consumeixen més energia que els SSD. El sobreescalfament redueix l'eficiència i pot danyar components. | **Risc de fallada.** L'obsolescència provoca frustració als usuaris i costos de reparació. |
+| **Servidor Físic** | 1 | **Sobredimensionat.** Funciona les 24 hores del dia, els 7 dies de la setmana per a tasques que no hi ha tanta potència . | **Consum crític.** És la factura elèctrica. Genera calor constantment, requerint refrigeració addicional. | **Malbaratament de recursos.** Té una eficiència energètica molt baixa. |
+| **Magatzem (Monitors i cables)** | - | **Desconegut.** No hi ha un inventari; es desconeix quins dispositius funcionen i quins són residu. | **Generació de RAEE.** Ocupa espai i suposa un risc ambiental si no es gestiona correctament. | **Pèrdua d'oportunitat.** Es podrien reutilitzar equips funcionals per a usuaris bàsics. |
+
+
+---
+
+## Fase 2: Solucions – Hardware Circular
+
+l'Economia Circular, en lloc de comprar equips completament nous, nosaltres volem fer una **Revitalització**. L'objectiu és poder donar una segona vida a tots els materials que necessitem i intentar utilitzarlos de nou
+
+### Pla de Revitalització per als 20 PCs de sobretaula
+
+Proposem una actualització estandarditzada dels 20 equips que te el coworking amb nous components que compleixin la sostenibilitat.
+
+
+**Components recomanats:**
+
+  **Disc SSD de 480GB o 512GB** (KINGSTON o WD Blue): Elimina els colls d'ampolla del disc dur, accelerant l'arrencada del sistema i l'obertura d'aplicacions. Consumeix menys energia que un HDD.
+
+https://www.pccomponentes.com/disco-duro-kingston-nv3-1tb-disco-ssd-6000mb-s-nvme-pcie-4-0-m-2-gen4-2280-3d-nand
+  
+  **Memòria RAM de 8GB** (Kingston o Corsair): Augmenta la capacitat total fins a 12GB, permetent als usuaris treballar amb múltiples pestanyes i programes sense alentiments.
+
+  https://www.pccomponentes.com/kingston-fury-beast-ddr5-5200mhz-16gb-cl40º
+  
+  **Fer un manteniment de neteja i de pasta termica**: Amb aixo resolem el problema de sobreescalfament, que vagi be el processador per el futur i reduint el consum del ventilador.
+
+### Justificació Ambiental i Certificacions (EPEAT / ENERGY STAR)
+
+serveixen per tenir menor consum energètic i major durabilitat 
+
+  **ENERGY STAR:**
+
+Els nous SSD i mòduls RAM que hem posat nosaltres i hem trobat ajudaran els equips a complir amb el que ens demana **ENERGY STAR Versió 8.0**. utilitzen entre un 30% i un 65% menys d'energia que els models no certificats.
+
+
+  **EPEAT:**
+
+Aquest sistema avalua els productes electrònics son basicament els equips revitalitzats que integren components EPEAT milloren la seva puntuació ambiental o rl reciclatje
+
+### Gestió del Servidor Físic i el Magatzem
+
+  **Servidor:** Es proposa la **migració a una solució al núvol com cloud**. Això elimina el consum energètic 24/7 del servidor físic i la seva refrigeració
+ 
+  **Magatzem:** S'ha de crear un inventari per separat els elements en bon estat per a la seva reutilització, i la resta s'han de portar a la RAEE dels dispositius electronics
+
+---
+
+## Fase 3: Guia de Bones Pràctiques Digitals
+
+s'ha dissenyat el següent protocol per els usuaris de la empresa:
+
+### Guia d'Estalvi Energètic per als Usuaris de Coworking Mataró
+
+**1. Gestiona el Dark Data **  
+Elimina els arxius que no s'utilitzen (carpetes temporals, esborranys, descàrregues repetides). Emmagatzemar dades innecessàries en servidors consumeix energia.
+
+**2. Configura el teu Sistema Operatiu**  
+Ajusta les opcions d'energia per suspendre la pantalla i l'equip després de 15 minuts d'inactivitat.
+
+**3. Tancament Remot d'Equips**  
+L'administrador del Coworking utilitzarà una eina per apagar els equips que quedin encesos fora de l'horari laboral (de 21:00 a 08:00 hores).
+
+**4. Desendolla els "Vampirs Elèctrics"**  
+Desendolla els carregadors i dispositius connectats a la regleta quan no s'utilitzin. Encara que estiguin apagats, continuen consumint energia.
+
+**5. Utilitza la Llum Natural**  
+Ajusta la brillantor de la pantalla al mínim necessari. Una brillantor alta consumeix més bateria i energia.
+
+---
+
+## Fase 4: El Pla de Sostenibilitat Integral
+
+### 4.1. Full de Ruta de Millora
+
+| **Termini** | **Acció** | **Responsable** | **Objectiu** |
+| :--- | :--- | :--- | :--- |
+| **Curt 1-3 mesos** | Auditoria completa de maquinari. Realitzar la neteja interna i el canvi de pasta tèrmica als 20 PCs. | Tècnic informàtic | Reduir el sobreescalfament i preparar els equips per l'actualització. |
+| **Curt 1-3 mesos** | Instal·lar els 20 SSD i els 20 mòduls de RAM de 8GB als equips de sobretaula. | Tècnic informàtic | Millorar el rendiment i reduir el consum energètic un 15%. |
+| **Mitjà 3-6 mesos** | Inventariar el magatzem. Reutilitzar monitors funcionals i contractar un gestor autoritzat de RAEE per als residus. | Gerència | Aconseguir un residu zero i alliberar espai. |
+| **Mitjà 3-6 mesos** | Migrar el servidor físic al núvol i desconnectar-lo. Instal·lar programari de gestió remota. | Tècnic informàtic | Aconseguir l'objectiu del 20% de reducció de la factura elèctrica. |
+| **Llarg 6-12 mesos** | La certificació de sostenibilitat i formar els usuaris en les bones pràctiques digitals. | Gerència | El model d'Economia Circular. |
+
+### 4.2. Protocol de Gestió de Residus (RAEE)
+
+Coworking Mataró ha de gestionar correctament els Residus d'Aparells Elèctrics i Electrònics (RAEE) que generi. La normativa d'aplicació és el **Reial Decret 110/2015**, que transposa la Directiva Europea de RAEE
+
+**Procediment a seguir:**
+
+1.  **Punt de Recollida:** un espai segur per emmagatzemar els components com RAMS i ssd
+2.  **Gestor Autoritzat:** Contactar amb un gestor de RAEE autoritzat per a la recollida i . La gestió només pot realitzar-se a través d'aquests agents.
+3.  **Documentació:** Sol·licitar el certificat de destrucció o reciclatge com a prova de la gestió ambiental correcta.
 
 ### 4.3. Càlcul de KPIs
 
